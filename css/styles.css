@@ -1,0 +1,27 @@
+html,
+body {
+  height: 100%;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+.gradient {
+  background: rgb(0, 97, 242);
+  background: linear-gradient(
+    135deg,
+    rgba(0, 97, 242, 1) 0%,
+    rgba(105, 0, 199, 1) 100%
+  );
+}
+
+.page-header {
+  margin-top: 3.6rem;
+  font-size: 1.25rem;
+  color: #fff;
+}
+
+a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+  }
+  
