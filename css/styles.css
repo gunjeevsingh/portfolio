@@ -41,10 +41,36 @@ a {
   }
   .features ul li{
     padding-left: 2rem;
-    background-image: url(../img/check.svg);
+    background-image: url(../img/arrow.svg);
     background-repeat: no-repeat;
-    line-height: 1.5rem;
+    line-height: 1rem;
     margin-bottom: 1rem;
   }
+
+  .icon {
+    color: #fff;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+    border-radius: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.con{
+  color: black;
+}
+.con:hover{
+  color: black;
+}
+
+.gallery {
+  background-color: whitesmoke;
+}
+
+
+
+  
 
   
