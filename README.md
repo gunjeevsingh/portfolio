@@ -1,1 +1,2 @@
-This repo contains the code for a fully responsive portfolio.
+<h1>Completely Responsive Portfolio using Bootstrap</h1>
+
